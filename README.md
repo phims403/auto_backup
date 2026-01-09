@@ -30,7 +30,7 @@ This tool automates the backup process of a remote VPS to your local machine. It
 
 Run the backup tool:
 ```bash
-python3 vps_backup_tool.py
+python3 backup.py
 ```
 
 On first run, you'll be prompted to enter:
