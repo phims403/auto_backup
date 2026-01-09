@@ -1,0 +1,6 @@
+# VPS Backup Configuration
+IP_ADDRESS = ""
+USERNAME = ""
+PASSWORD = ""
+BACKUP_FREQUENCY_DAYS = "3"
+RETENTION_COUNT = "2"
